@@ -1,0 +1,242 @@
+[
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kabupaten",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2011",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.74,
+          5.99,
+          6.75,
+          6.1
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kabupaten",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2012",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.81,
+          5.11,
+          6.17,
+          5.42
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kabupaten",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2013",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          4.72,
+          6.3,
+          6.41,
+          6.04
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kabupaten",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2014",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.01,
+          6.04,
+          5.76,
+          5.99
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kabupaten",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2015",
+      "data": [
+        "Kab. Pandeglang",
+        "Kab. Lebak",
+        "Kab. Tangerang",
+        "Kab. Serang"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.97,
+          5.93,
+          5.39,
+          5.14
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kota",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2011",
+      "data": [
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          7.39,
+          6.62,
+          8.34,
+          8.81
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kota",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2012",
+      "data": [
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          7.07,
+          7.7,
+          7.42,
+          8.66
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kota",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2013",
+      "data": [
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          6.52,
+          6.69,
+          7.3,
+          8.75
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kota",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2014",
+      "data": [
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.64,
+          4.93,
+          7.07,
+          8.5
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "0 ",
+      "region": "Kota",
+      "name": "Laju Pertumbuhan Ekonomi",
+      "yyyy": "2015",
+      "data": [
+        "Kota Tangerang",
+        "Kota Cilegon",
+        "Kota Serang",
+        "Kota Tangerang Selatan"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          5.58,
+          4.81,
+          6.43,
+          7.25
+        ]
+      }
+    ]
+  }
+]
